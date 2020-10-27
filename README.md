@@ -37,5 +37,6 @@ To the save a new orphanage, you need add location, name, number, some image, fe
 
 ### Conclusion
 
-I hope that project help you
-You can suggest improvements, report bugs or question something.
+##### I hope that project help you.
+
+##### You can suggest improvements, report bugs or question something.
